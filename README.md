@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VickyNikhal
 - 👀 I’m interested in ... Data Analysis Field , DataBases handling
-- 🌱 I’m currently learning ... Python , sql , Mongodb
+- 🌱 I’m currently learning ... Python, DBMS
 - 📫 How to reach me ...  vickynikhl89712@gmail.com
 
 <!---
